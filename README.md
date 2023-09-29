@@ -45,7 +45,7 @@ TogglTrack Data Extractor is a Node.js script designed to simplify the process o
 }
 ```
 
-2. If you wish to do so, enter entries to be excluded in the `blacklist.txt` file in the project directory. Each entry should be on a separate line.
+2. To exclude specific time entries from hours worked calculations, add keywords or phrases to the blacklist.txt file in the project directory. Each keyword or phrase should be on a separate line. Entries will be excluded from the calculation if their descriptions start with any keyword or phrase listed in the blacklist.
 
 ### Usage
 1. Run `run_script.bat` to start the script.
