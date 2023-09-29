@@ -1,6 +1,6 @@
 # TogglTrack Data Extractor
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/MicaLovesKPOP/TogglTrackDataExtractor)
+[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/MicaLovesKPOP/TogglTrackDataExtractor?include_prereleases)](https://github.com/MicaLovesKPOP/TogglTrackDataExtractor/releases)
 ![License](https://img.shields.io/badge/license-GNU%20GPLv3-blue.svg)
 
 Automate and simplify manual time tracking from TogglTrack to your company's timesheet software.
